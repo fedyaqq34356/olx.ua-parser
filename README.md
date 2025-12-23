@@ -38,7 +38,7 @@ The script will create an `olx_offers.xlsx` file with all collected data.
 
 ## 📄 License
 
-MIT
+GPL-3.0 license 
 
 ---
 
@@ -46,4 +46,5 @@ MIT
 Happy parsing! 🚀
 
 ---
+
 
